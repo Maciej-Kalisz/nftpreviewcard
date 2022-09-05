@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Maciej-Kalisz/nftpreviewcard]
-- Live Site URL: [https://github.com/]
+- Live Site URL: [https://maciej-kalisz.github.io/nftpreviewcard/]
 
 ## My process
 
